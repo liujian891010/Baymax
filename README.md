@@ -1,8 +1,6 @@
 
 <h1>如何让代码自动播放同步画一只大白？</h1>
 
-<img src="https://i.loli.net/2018/05/29/5b0ce074dd7bc.png" alt="图" title="大白" />
-
 <p>花了一整天的时间画了大白，成就感还是蛮大的。</p>
 
 <p><strong>关键词：</strong>JavaScript、jQuery、Prism.js、Rem响应式页面 、SASS</p>
